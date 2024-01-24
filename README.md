@@ -19,10 +19,10 @@
 
 #### Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/DoAnLapTrinhTrucQuanUIT/quan-ly-quan-an">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/qthawq100dayswithreact/GivingAdvice">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
