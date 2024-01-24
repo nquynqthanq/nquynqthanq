@@ -1,4 +1,4 @@
-# I'm a self-taught passionate Fullstack developer from VietNam
+# Turning Coffee into Code – One Line at a Time 
 
 **About me**
 
