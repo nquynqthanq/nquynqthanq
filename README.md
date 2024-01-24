@@ -17,16 +17,12 @@
 | ![qthawq's GitHub stats](https://github-readme-stats.vercel.app/api?username=qthawq100dayswithreact&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qthawq100dayswithreact&hide_progress=true) |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-#### Top Repositories
-
-![Customized Card](https://quan-ly-quan-an.vercel.app/api/pin?username=qthawq100dayswithreact\&repo=quan-ly-quan-an\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
-
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://www.facebook.com/Qthaq2004/">
+  <img align="right" alt="Thang Nguyen | Facebook" width="21px" src="./images/facebook.png" />
 </a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://www.instagram.com/qthag_/">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="21px" src="./images/instagram.png" />
 </a>
