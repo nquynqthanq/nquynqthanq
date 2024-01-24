@@ -19,12 +19,7 @@
 
 #### Top Repositories
 
-<a href="https://github.com/DoAnLapTrinhTrucQuanUIT/quan-ly-quan-an">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/qthawq100dayswithreact/GivingAdvice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+![Customized Card](https://quan-ly-quan-an.vercel.app/api/pin?username=qthawq100dayswithreact\&repo=quan-ly-quan-an\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)
 
 <br />
 <br />
