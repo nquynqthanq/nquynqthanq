@@ -1,4 +1,4 @@
-I'm a self-taught passionate Fullstack developer from VietNam ![Alt text](images/vietnamflag.png)
+# I'm a self-taught passionate Fullstack developer from VietNam
 
 **About me**
 
