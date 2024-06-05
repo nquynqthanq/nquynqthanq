@@ -26,3 +26,5 @@
 <a href="https://www.instagram.com/qthag_/">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="21px" src="./images/instagram.png" />
 </a>
+
+[protfolio](https://nguynqthawq.github.io/portfolio/)
