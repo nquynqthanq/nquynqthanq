@@ -24,7 +24,8 @@
   <img align="right" alt="Thang Nguyen | Facebook" width="21px" src="./images/facebook.png" />
 </a>
 <a href="https://www.instagram.com/qthag_/">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="21px" src="./images/instagram.png" />
+  <img align="right" alt="nguynqthanq | Instagram" width="21px" src="./images/instagram.png" />
 </a>
-
-[protfolio](https://nguynqthawq.github.io/portfolio/)
+<a href="https://nguynqthawq.github.io/portfolio/">
+  <img align="right" alt="nguynqthanq | Instagram" width="21px" src="./images/instagram.png" />
+</a>
