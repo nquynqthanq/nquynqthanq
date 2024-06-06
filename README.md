@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- Portfolio (https://nguynqthawq.github.io/portfolio/)
+- <a href="https://nguynqthawq.github.io/portfolio/">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
