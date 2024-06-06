@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguynqthawq&label=Profile%20views&color=0e75b6&style=flat" alt="nguynqthawq" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/qthag_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nguynqthawq"  </p>
-
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
 
 - 🌱 I’m currently learning **Data Analyst**
