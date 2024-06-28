@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
 
 - 🌱 I’m currently learning **Data Analyst**
-
+ 
 - 💬 Ask me about **Android , RN**
 
 - 📫 How to reach me **nguyenqthangwork@gmail.com**
