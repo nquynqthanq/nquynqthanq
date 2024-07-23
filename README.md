@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://nquynqthanq.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Thang</h1>
-<h3 align="center">A passionate student from VietNam</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguynqthawq&label=Profile%20views&color=0e75b6&style=flat" alt="nguynqthawq" /> </p>
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am Funny**
 
-- <a href="https://nquynqthanq.vercel.app/">Portfolio</a>, <a href="https://github.com/user-attachments/files/16345116/cv.pdf">Resume</a>
+- <a href="https://nquynqthanq.vercel.app/">Portfolio</a>, <a href="https://github.com/user-attachments/files/16345116/cv.pdf">Resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
