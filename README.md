@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
 
-- 🌱 I’m currently earning some certificates at **FreeCodeCamp, Coursera**
+- 🌱 I’m earning some certificates from **FreeCodeCamp and Coursera**
  
-- 💬 Ask me about **Android , React Native**
+- 💬 Ask me about **JavaScript, Nextjs**
 
 - 📫 How to reach me **nguyenqthangwork@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am friendly**
 
 - <a href="https://nquynqthanq.vercel.app/">Portfolio</a>, <a href="https://github.com/user-attachments/files/16345116/cv.pdf">Resume</a>.
 
