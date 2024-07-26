@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
 
-- 🌱 I’m currently learning **Data Analyst and Nextjs**
+- 🌱 I’m currently earning some certificates at **FreeCodeCamp, Coursera**
  
 - 💬 Ask me about **Android , React Native**
 
