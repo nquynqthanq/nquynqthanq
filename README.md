@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
  
-- 🌱 I’m earning some certificates from **FreeCodeCamp and Coursera**
- 
+- 🌱 I’m learning course **Master Web Mobile Design Figma UIUX** from Udemy
+  
 - 💬 Ask me about **JavaScript, Nextjs**
 
 - 📫 How to reach me **nguyenqthangwork@gmail.com**
