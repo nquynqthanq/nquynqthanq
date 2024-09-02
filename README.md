@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
  
-- 🌱 I’m learning course **Master Web Mobile Design Figma UIUX** from Udemy
+- 🌱 I’m learning course **Google Data Analysis** from Coursera
   
 - 💬 Ask me about **JavaScript, Nextjs**
 
