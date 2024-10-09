@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
  
-- 🌱 I’m learning course **Google Data Analysis** from Coursera
+- 🌱 I’m completing **Project 1 about Microservices Design Pattern and Other Small Project**
   
 - 💬 Ask me about **JavaScript, Nextjs**
 
