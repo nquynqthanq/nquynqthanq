@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently studying at **University of Information Technology - VNUHCM**
  
-- 🌱 I’m completing ** a Big Project about Microservices Design Pattern and Other Small Project**
+- 🌱 I’m completing **A Project about Microservices Design Pattern**
   
 - 💬 Ask me about **JavaScript, Nextjs**
 
