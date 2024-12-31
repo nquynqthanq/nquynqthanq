@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am friendly**
 
-- <a href="https://nquynqthanq.vercel.app/">Portfolio</a>, <a href="https://github.com/user-attachments/files/16345116/cv.pdf">Resume</a>.
+- <a href="https://nguyenquocthang.vercel.app/">Portfolio</a>, <a href="https://github.com/user-attachments/files/16345116/cv.pdf">Resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
