@@ -21,10 +21,12 @@ My goal is to craft seamless and engaging experiences that make a difference.
 
 📈 **<samp>My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nquynqthanq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquynqthanq&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true"/>
-</p>
+<a href="https://github.com/nquynqthanq/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nquynqthanq" />
+</a>
+<a href="https://github.com/nquynqthanq/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nquynqthanq&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--START_SECTION:SHOW_OS-->
 <!--END_SECTION:SHOW_OS-->
