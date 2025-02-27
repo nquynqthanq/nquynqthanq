@@ -23,7 +23,7 @@ My goal is to craft seamless and engaging experiences that make a difference.
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nquynqthanq&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent&include_orgs=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquynqthanq&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true&exclude_repo=Facial-expression-recognition-through-Portrait-Images,CS114.O11-22521145,CS114.O11-FinalProject,katalon-testops"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nquynqthanq&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent&include_orgs=true"/>
 </p>
 
 <!--START_SECTION:SHOW_OS-->
