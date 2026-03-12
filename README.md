@@ -1,6 +1,6 @@
 # 👋 Hello! I'm [Nguyễn Quốc Thắng](https://www.narcis.fun/)
 
-*Frontend Developer | Passionate about UX/UI Design | Crafting Outstanding User Experiences*
+_Frontend Developer | Passionate about UX/UI Design | Crafting Outstanding User Experiences_
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nguyenquocthang/">
@@ -13,13 +13,15 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-I am a **Frontend Developer** passionate about building beautiful, user-friendly, and optimized interfaces. I always strive to create digital products that are not only visually appealing but also provide a smooth and memorable experience.
+Hi, I’m Nguyen Quoc Thang, a graduate from the University of Information Technology – VNU HCMC.
 
-- ✨ Focused on developing intuitive interfaces and impactful user experiences.
-- 🛠 Continuously exploring new front-end technologies and modern design trends.
-- 🎨 Blending coding and design to achieve perfection.
+I started my journey as a Front-end Developer and UI/UX Designer, where I built user-friendly and modern interfaces. Through this experience, I developed a strong interest in how systems work behind the scenes. Currently, I am transitioning toward becoming a Software Engineer, focusing on backend development and system architecture.
+
+I am eager to contribute to real-world projects where I can design scalable systems, solve complex problems, and continue growing as an engineer.
+
+If you’re looking for someone who is passionate about building reliable systems and continuously learning, feel free to reach out!
 
 ---
 
@@ -37,7 +39,9 @@ I am a **Frontend Developer** passionate about building beautiful, user-friendly
 
 ## 🌟 Featured Projects
 
-- **[Portfolio Website](https://www.quocthang.tech/)**: A personal website showcasing my skills, projects, and story.
+- **[Portfolio Website](https://www.rarcis.fun/)**: A personal website showcasing my skills, projects, and story.
+- **[VNU Retrieve Regulation System](https://github.com/nquynqthanq/uit-reg-system-fe)**: A platform allows students and staff of VNU to easily search and access university regulations and policies.
+- **[Random Video Chat Platform](https://github.com/nquynqthanq/buzzly-fe)**: A random video chat platform, delivering a seamless and intuitive user interface for global video conversations.
 - **[Resort Management System](https://github.com/FiveD-SE/ResortManagementSystem-FE)**: A React-based system for managing resort operations.
 - **[Online Contest Management System](https://github.com/sloweyyy/OnlineContestManagementSystem-fe)**: A competition management platform using React and ASP.NET.
 - **[Blockchain-based Online Notarization Platform](https://github.com/orgs/ASE-UIT/teams/03-online-notarization-management-system)**: A blockchain-powered notarization system with React and Solidity.
@@ -64,6 +68,7 @@ I am a **Frontend Developer** passionate about building beautiful, user-friendly
 - 🎯 **Coding Profiles**: [LeetCode](https://leetcode.com/u/nguyqthanq/) | [HackerRank](https://www.hackerrank.com/profile/h22521337)
 
 ---
+
 <p align="center">
   <em>"Coding is not just a job, it's a way I tell my story."</em>
   <br/>
