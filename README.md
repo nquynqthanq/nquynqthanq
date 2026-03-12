@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Nguyễn Quốc Thắng](https://www.quocthang.tech/)
+# 👋 Hello! I'm [Nguyễn Quốc Thắng](https://www.narcis.fun/)
 
 *Frontend Developer | Passionate about UX/UI Design | Crafting Outstanding User Experiences*
 
@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/nguyenquocthang/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="https://www.quocthang.tech/">
+  <a href="https://www.narcis.fun/">
     <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
 </p>
